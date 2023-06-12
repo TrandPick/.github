@@ -7,3 +7,17 @@
 | [<img src="https://avatars.githubusercontent.com/u/26915908?v=4" width="200">](https://github.com/angelSooho) | [<img src="https://avatars.githubusercontent.com/u/71963159?v=4" width="200">](https://github.com/hye-0000) | [<img src="https://avatars.githubusercontent.com/u/110995932?v=4">](https://github.com/jooooonj) | [<img src="https://avatars.githubusercontent.com/u/62290451?v=4" width="200">](https://github.com/mmunkyeong) |  
 |:-----------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
 |                                [이수호](https://github.com/angelSooho)                                |                                  [권혜영](https://github.com/hye-0000)                                   |                                   [이재준](https://github.com/jooooonj)                                   |                                  [제문경](https://github.com/mmunkyeong)                                  |
+
+## 🔨 Stacks
+
+### Front
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
+
+
+### Back
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/spring--security-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-green?style=for-the-badge&logo=)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
